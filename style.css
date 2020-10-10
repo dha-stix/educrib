@@ -52,5 +52,9 @@ li > a {
 }
 i {
     font-size: 30px;
-    color: #ddd
+    color: #ddd;
+    cursor: pointer;
+}
+i:hover {
+    color: white;
 }
